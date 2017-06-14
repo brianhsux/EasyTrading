@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799831395865",
+    "firebase_url": "https://easytrading-b6f09.firebaseio.com",
+    "project_id": "easytrading-b6f09",
+    "storage_bucket": "easytrading-b6f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799831395865:android:301dfb1f553d293b",
+        "android_client_info": {
+          "package_name": "com.brian.easytrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799831395865-aj2obnrboidlofo29nie132j3gl3dqfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brian.easytrading",
+            "certificate_hash": "48d3f895867cf8b52ee7227bce46263a13683e92"
+          }
+        },
+        {
+          "client_id": "799831395865-darp8oiod2rdhba5oud0982i5rddt76h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzOFbYquhHRa8uixJTDJEg77fRGU8UTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799831395865-darp8oiod2rdhba5oud0982i5rddt76h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

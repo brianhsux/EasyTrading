@@ -1,0 +1,120 @@
+{
+	"locale": "en-US",
+    "version": "1497234445464",
+    "AllProducts": [
+        {
+			"productId": "00001",
+			"productName": "Evian Water",
+			"productPrice": "$1.5",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00002",
+			"productName": "Asus Smart Phone",
+			"productPrice": "$200",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00003",
+			"productName": "Italy spaghetti",
+			"productPrice": "$30",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00004",
+			"productName": "Today Magazine",
+			"productPrice": "$30",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00005",
+			"productName": "Sony Headset",
+			"productPrice": "$100",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00006",
+			"productName": "Prada shoes",
+			"productPrice": "$2500",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00007",
+			"productName": "Cheese cake",
+			"productPrice": "$10",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00008",
+			"productName": "Chocolate cookies",
+			"productPrice": "$7",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00009",
+			"productName": "Vitmain C",
+			"productPrice": "$15",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		}
+    ],
+    "Foods": [
+		{
+			"productId": "00001",
+			"productName": "Evian Water",
+			"productPrice": "$1.5",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00003",
+			"productName": "Italy spaghetti",
+			"productPrice": "$30",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00007",
+			"productName": "Cheese cake",
+			"productPrice": "$10",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00008",
+			"productName": "Chocolate cookies",
+			"productPrice": "$7",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00009",
+			"productName": "Vitmain C",
+			"productPrice": "$15",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		}		
+	],
+    "3C": [
+		{
+			"productId": "00002",
+			"productName": "Asus Smart Phone",
+			"productPrice": "$200",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00005",
+			"productName": "Sony Headset",
+			"productPrice": "$100",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		}
+	],
+    "Others": [
+		{
+			"productId": "00004",
+			"productName": "Today Magazine",
+			"productPrice": "$30",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		},
+		{
+			"productId": "00006",
+			"productName": "Prada shoes",
+			"productPrice": "$2500",
+			"productPreviewImageUrl": "ThemeData/com.asus.themes.th02062716002/Asset/drawable-nodpi/01_com.android.systemui.lockscreen_preview_1.webp"
+		}			
+	]	
+}

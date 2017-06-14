@@ -44,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
 
         viewPager.setAdapter(adapter);
         viewPagerTab.setViewPager(viewPager);
-
     }
 
     public int[] tabs() {
