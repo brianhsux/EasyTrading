@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyTrading.iml" filepath="$PROJECT_DIR$/EasyTrading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/SmartTabLayoutLibrary/SmartTabLayoutLibrary.iml" filepath="$PROJECT_DIR$/libs/SmartTabLayoutLibrary/SmartTabLayoutLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/utils-v4-library/utils-v4-library.iml" filepath="$PROJECT_DIR$/libs/utils-v4-library/utils-v4-library.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+include ':app'
+include ':libs:SmartTabLayoutLibrary'
+include ':libs:utils-v4-library'
